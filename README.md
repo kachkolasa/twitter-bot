@@ -1,5 +1,6 @@
 # twitter-bot
 Twitter-Bot is a python program which uses tweepy and OpenAi to generate tweets by it's own and then post them on twitter.
+Read this article for more information: https://developerwings.com/ai-powered-twitter-bot-using-tweepy-2022/
 
 ## Dependencies
 Install the following packages using pip.<code>  pip install tweepy </code> &nbsp; <code> pip install openai </code>
